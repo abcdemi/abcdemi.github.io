@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The complete CV can be found [here](https://drive.google.com/file/d/1T3ZDf6IxPrS69oxj22DzC67954Q9oJJB/view?usp=sharing) .
+The complete CV can be found [here](https://drive.google.com/file/d/1T3ZDf6IxPrS69oxj22DzC67954Q9oJJB/view?usp=sharing).
 
 Current position
 =====
