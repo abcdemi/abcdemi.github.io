@@ -23,5 +23,5 @@ Previous Employment
 
 Education
 ======
-* Ph.D in Discrete Mathematics, 2021, Moscow Institute of Physics and Technology. Advisors: Prof. [Dmitry Shabanov](https://scholar.google.com/citations?user=InsQNgoAAAAJ&hl=en) and Prof. [Andrei Raigorodskii](https://scholar.google.com/citations?user=fzY42_QAAAAJ&hl=en). Thesis: "Graph and Hypergraph Colorings in Extremal Combinatorics and Combinatorial Geometry"
-* M.Sc. in Fundamental Mechanics and Mathematics, 2011-2017, Lomonosov Moscow State University.  Advisor: Prof. [Andrei Raigorodskii](https://scholar.google.com/citations?user=fzY42_QAAAAJ&hl=en). Thesis: "Chromatic Numbers of Rational Spaces with Minkowskii Distance"
+* Ph.D in Discrete Mathematics, 2021, [Moscow Institute of Physics and Technology](https://mipt.ru/english/). Advisors: Prof. [Dmitry Shabanov](https://scholar.google.com/citations?user=InsQNgoAAAAJ&hl=en) and Prof. [Andrei Raigorodskii](https://scholar.google.com/citations?user=fzY42_QAAAAJ&hl=en). Thesis: "Graph and Hypergraph Colorings in Extremal Combinatorics and Combinatorial Geometry"
+* M.Sc. in Fundamental Mechanics and Mathematics, 2011-2017, [Lomonosov Moscow State University](https://www.msu.ru/en/).  Advisor: Prof. [Andrei Raigorodskii](https://scholar.google.com/citations?user=fzY42_QAAAAJ&hl=en). Thesis: "Chromatic Numbers of Rational Spaces with Minkowskii Distance"
