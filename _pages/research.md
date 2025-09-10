@@ -9,11 +9,15 @@ I am interested mainly in Stochastic Optimization and its applications to Machin
 
 Preprints/submitted papers
 =====
-1. Y. Demidovich, G. Malinovsky, Egor Shulgin, Peter Richtárik, **"MAST: Model-Agnostic Sparsified Training"** [Link](https://arxiv.org/abs/2311.16086)
-1. Y. Demidovich, Y. Panichkin, M. Zhukovskii, **"Reconstruction of graph colourings"** [Link](https://arxiv.org/abs/2308.01671)
+
+1. Y. Demidovich, Y. Panichkin, M. Zhukovskii, **"Reconstruction of graph colourings"**, [Link](https://arxiv.org/abs/2308.01671)
+1. I. Sokolov, A. Sadiev, Y. Demidovich, F. Al-Qahtani, P. Richtárik, **"Bernoulli-LoRA: A Theoretical Framework for Randomized Low-Rank Adaptation"**, [Link](https://arxiv.org/abs/2508.03820)
 
 Published/accepted papers
 =====
+1. A. Panferov, Y. Demidovich, A. Rammal, P. Richtárik, **"Correlated quantization for faster nonconvex distributed optimization"**, UAI'25 (Oral), [Link](https://openreview.net/forum?id=vrNwjhPHGL)
+1. Y. Demidovich, P. Ostroukhov, G. Malinovsky, S. Horváth, M. Takáč, P. Richtárik, E. Gorbunov, **"Methods with local steps and random reshuffling for generally smooth non-convex federated optimization"**, ICLR'25 [Link](https://arxiv.org/abs/2412.02781)
+1. Y. Demidovich, G. Malinovsky, Egor Shulgin, Peter Richtárik, **"MAST: Model-Agnostic Sparsified Training"**, ICLR'25 [Link](https://arxiv.org/abs/2311.16086)
 1. Y. Demidovich, G. Malinovsky, I. Sokolov, Peter Richtárik, **"A Guide Through the Zoo of Biased SGD"**, NeurIPS'23 [Link](https://arxiv.org/abs/2305.16296)
 1. Y. Demidovich, A. Skorkin, M. Zhukovskii, **"Cycle saturation in random graphs"**, SIAM Journal on Discrete Mathematics, 37(3) (2023) [Link](https://epubs.siam.org/doi/10.1137/21M1456479)
 1. Y. Demidovich, M. Zhukovskii, **"Tight asymptotics of clique-chromatic numbers of dense random graphs"**, Journal of Graph Theory, 103(3), 451-461 (2023) [Link](https://onlinelibrary.wiley.com/doi/10.1002/jgt.22927)
