@@ -17,8 +17,8 @@ Postdoctoral Fellow at Optimization and Machine Learning Lab, [KAUST](https://ww
 
 Previous Employment
 =====
-* Deep Learning Engineer, Samsung Artificial Intelligence Center, Moscow, March 2022 -- August 2022
-* Senior Research Engineer, Huawei, Moscow, October 2021 -- March 2022
+* Deep Learning Engineer, Samsung Artificial Intelligence Center, Moscow, January 2022 -- August 2022
+* Senior Research Engineer, Huawei, Moscow, May 2021 -- March 2022
 * Junior Research Scientist, Moscow Institute of Physics and Technology, September 2019 -- December 2021
 
 Education
