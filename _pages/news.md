@@ -5,7 +5,9 @@ permalink: /events/
 author_profile: true
 ---
 
-**2025 Apr 24 – Apr 28: Attending ICLR'25, presenting [**"Methods with local steps and random reshuffling for generally smooth non-convex federated optimization"**](https://arxiv.org/abs/2412.02781), joint work with P. Ostroukhov, G. Malinovsky, S. Horváth, M. Takáč, P. Richtárik, E. Gorbunov, presenting [**"MAST: Model-Agnostic Sparsified Training"**](https://arxiv.org/abs/2311.16086), joint work with G. Malinovsky, Egor Shulgin, Peter Richtárik
+**2025 July 21 - 25:** Attending UAI'25, presenting [**"Correlated quantization for faster nonconvex distributed optimization"**](https://openreview.net/forum?id=vrNwjhPHGL), joint work with A. Panferov, A. Rammal, P. Richtárik, Oral track
+
+**2025 April 24 – 28:** Attending ICLR'25, presenting [**"Methods with local steps and random reshuffling for generally smooth non-convex federated optimization"**](https://arxiv.org/abs/2412.02781), joint work with P. Ostroukhov, G. Malinovsky, S. Horváth, M. Takáč, P. Richtárik, E. Gorbunov, presenting [**"MAST: Model-Agnostic Sparsified Training"**](https://arxiv.org/abs/2311.16086), joint work with G. Malinovsky, Egor Shulgin, Peter Richtárik
 
 **2023 December 10-16:** Attending NeurIPS'23, presenting [**"A Guide Through the Zoo of Biased SGD"**](https://arxiv.org/abs/2305.16296), joint work with G. Malinovsky, I. Sokolov, Peter Richtárik
 
