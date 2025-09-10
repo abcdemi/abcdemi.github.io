@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am interested mainly in Stochastic Optimization and its applications to Machine Learning, Randomized and Distributed Optimization Methods, Federated Learning, Graph Theory and Combinatorics.
+I am interested mainly in Machine Learning, Stochastic Optimization, Algorithm Design, Randomized and Distributed Optimization Methods, Federated Learning, Graph Theory and Combinatorics, Probability Theory, Statistics.
 
 Preprints/submitted papers
 =====
